@@ -4,7 +4,7 @@ Hi, I’m Laura!
 - 🌱 I just finished my Master's degree in Digital Transformation Management in Germany. 
 - 💞️ I’m looking to work in Product management and development, focusing on the digital growth of all parts. 
 - 📫 How to reach me: you can always contact me through my LinkedIn or via email lala.tote.995@gmail.com 
-- ⚡ Fun fact: I might have a small obsession with pinguins!
+- ⚡ Fun fact: I might have a small obsession with penguins!
 
 <!---
 LNDC29/LNDC29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
